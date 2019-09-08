@@ -19,7 +19,9 @@
     "@angular/platform-browser": "~8.1.0",
     "@angular/platform-browser-dynamic": "~8.1.0",
     "@angular/router": "~8.1.0",
+    "@compodoc/compodoc": "^1.1.10",
     "core-js": "^2.5.4",
+    "global": "^4.4.0",
     "highlight.js": "^9.15.9",
     "jquery.hotkeys": "^0.1.0",
     "linq4js": "^2.2.2",
@@ -32,7 +34,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.801.0",
     "@angular-devkit/build-ng-packagr": "~0.801.0",
-    "@angular/cli": "^8.1.0",
+    "@angular/cli": "^8.3.3",
     "@angular/compiler-cli": "8.1.0",
     "@angular/language-service": "~8.1.0",
     "@types/jasmine": "~2.8.8",
